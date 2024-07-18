@@ -1,4 +1,5 @@
-I am a 2nd-year B.Tech student at NIET College, specializing in Computer Science. With a strong foundation in Java and Python, I am passionate about software development and continually enhancing my programming skills. Beyond coding, I have a creative side that I express through video editing and drawing.
+I am a 2nd-year B.Tech student at NIET College, specializing in Computer Science. With a strong foundation in Java and Python, 
+I am passionate about software development and continually enhancing my programming skills. Beyond coding, I have a creative side that I express through video editing and drawing.
 
 **Skills:**
 - **Programming Languages:** Java, Python
@@ -16,7 +17,7 @@ I am a 2nd-year B.Tech student at NIET College, specializing in Computer Science
 - **Bachelor of Technology (B.Tech) in Computer Science**
   NIET College, India
 
-Projects:
+**Projects:**
 •	Contact Book (Java): Developed a simple contact book application using Java that allows users to store, search, and manage contact information.
 •	Rock-Paper-Scissors Game (Python): Created an interactive rock-paper-scissors game in Python with a graphical user interface.
 •	Short Story Video (Video Editing): Edited a 10-minute short story video focusing on family issues, showcasing skills in video editing and storytelling.
