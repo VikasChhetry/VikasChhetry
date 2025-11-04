@@ -1,9 +1,9 @@
-I am a 2nd-year B.Tech student at NIET College, specializing in Computer Science. With a strong foundation in Java and Python, 
+I am a 3nd-year B.Tech student at NIET College, specializing in Computer Science. With a strong foundation in Java and Python, 
 I am passionate about software development and continually enhancing my programming skills. Beyond coding, I have a creative side that I express through video editing and drawing.
 
 **Skills:**
 - **Programming Languages:** Java, Python
-- **Software Development:** Basic knowledge of algorithms, data structures, and software engineering principles
+- **Software Development:** Intermediate knowledge of algorithms, data structures, and software engineering principles
 - **Creative Skills:** Video editing, Drawing
 - **Tools:** [After Effect and CapCut]
 
